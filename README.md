@@ -1,5 +1,5 @@
 # graduate-project
-a gradtaue prohect based on b/s
+a gradtaue project based on b/s
 
 # 技术栈
 前端
